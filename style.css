@@ -1,0 +1,45 @@
+body {
+    background-color: #FA6570;
+}
+li {
+    list-style-type: none;
+}
+#banner{
+    height: 490px;
+    width:  790px;
+    display: block;
+    margin: 0 auto;
+}
+#subTitle{
+    text-align: center;
+}
+.songFormat{
+    position: relative;
+    left: 200px;
+    top: 65px;
+    padding-bottom: 13px;
+}
+.playerFormat{
+    position: relative;
+    left: 700px;
+    bottom: 117px;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+}
+.grid-item {
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+#contactWalsh{
+    position: relative;
+    left: 132px;
+}
+#contactWynn{
+    position: relative;
+    left: 966px;
+    bottom: 86px;
+}
